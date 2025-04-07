@@ -13,14 +13,10 @@ This package runs on Unity **2019.2 or later**.
 This package can be installed with the built-in Unity Package Manager. Open the UPM window, click on the `+` icon, choose **Add package from git URL...** and paste this URL:
 
 ```
-https://github.com/Sov3rain/Uni-CSV.git?path=/Assets/uni-csv
+https://github.com/Sov3rain/unity-csv.git?path=/Assets/uni-csv#1.2.0
 ```
 
-You can alternatively install a specific version:
-
-```
-https://github.com/Sov3rain/Uni-CSV.git?path=/Assets/uni-csv#1.2.0
-```
+This will install a specific version (here 1.2.0).
 
 ## Usage
 
