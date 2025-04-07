@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Uni-CSV** is a lightweight and efficient CSV parsing utility designed specifically for Unity projects. It allows easy and flexible parsing of CSV data from both files and strings, supporting multiple delimiter types (comma, tab, semicolon, pipe) and handling common edge cases like quoted fields and multiline data.
+**unity-csv** is a lightweight and efficient CSV parsing utility designed specifically for Unity projects. It allows easy and flexible parsing of CSV data from both files and strings, supporting multiple delimiter types (comma, tab, semicolon, pipe) and handling common edge cases like quoted fields and multiline data.
 
 ## Supported Unity versions
 
